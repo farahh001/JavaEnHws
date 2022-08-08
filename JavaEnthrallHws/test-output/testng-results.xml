@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-30T18:58:08 EDT" name="Default suite" finished-at="2022-06-30T18:58:15 EDT" duration-ms="7399">
+    <groups>
+    </groups>
+    <test started-at="2022-06-30T18:58:08 EDT" name="Default test" finished-at="2022-06-30T18:58:15 EDT" duration-ms="7399">
+      <class name="hw13SeleniumXpath.TestNg">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:hw13SeleniumXpath.TestNg@2c35e847]" started-at="2022-06-30T18:58:08 EDT" name="setUp" finished-at="2022-06-30T18:58:11 EDT" duration-ms="2789" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="urlTest()[pri:0, instance:hw13SeleniumXpath.TestNg@2c35e847]" started-at="2022-06-30T18:58:11 EDT" name="urlTest" finished-at="2022-06-30T18:58:15 EDT" duration-ms="4157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlTest -->
+        <test-method is-config="true" signature="tearUp()[pri:0, instance:hw13SeleniumXpath.TestNg@2c35e847]" started-at="2022-06-30T18:58:15 EDT" name="tearUp" finished-at="2022-06-30T18:58:15 EDT" duration-ms="348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearUp -->
+      </class> <!-- hw13SeleniumXpath.TestNg -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
